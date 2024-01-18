@@ -19,6 +19,4 @@ labels:
 
   I enjoy learning how to code because the feeling of when the code finally works is just unbeatable; it gives such a rush that I feel amazing. The journey to get there is not so bad either. I do enjoy challenigng myself and these WODS are a good challenge to take. I may not get the code right away but, I like that with practice, I'm slowly getting better and better at being creative and thinking how the code works and how to transform the prompt or situation from the WOD into actual code.Software engineering to me is very vast and mysterious. When I hear the words "Software Engineering"; I have this idea of multiple complex coding and structure. I hope that skills in coding languages such as Javascript will help me create a strong base so that I may use the skills towards a career in Cyber Security.So, literally from ground zero; here I am learning about Javascript and Software Engineering. Am I afraid? Yes, of course. Will I let that fear stop me? Of course not! Coding in itself is a skill that should be practiced just like how people would practice in a sport or video game to get better. I look forward to getting back up from any failures and take each day one cup of coffee at a time.
 
-
-      ![enjoy cofee cropped](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/926636f3-7c24-4c6d-b491-5227bbcb5ce7)
-
+![enjoy cofee cropped](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/1e97fe66-97a2-496f-8469-599141f27e0e)
