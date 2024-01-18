@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: project picture cropped.jpg
 title: "WarcraftGuild"
 date: 2024-01-17
 published: true
