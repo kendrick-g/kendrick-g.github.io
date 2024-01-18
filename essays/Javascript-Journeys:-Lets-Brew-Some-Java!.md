@@ -11,7 +11,7 @@ labels:
 ---
 ![Learn-Javascript-Blog cropped](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/4cf73e5d-42cb-4991-917a-33fd170e9dd2)
 
-<p><b><i>Whooo, I'm gonna need an americano with espresso for this...</i></b></p>
+<font size = "7"><p><b><i>Whooo, I'm gonna need an americano with espresso for this...</i></b></p></font>
   
   So far, Javascript has been amazing. It seems to be much more simple compared to Java. I'm still getting used to the syntax such as using "console.log" to print and display things or using "let" or "const" when it comes to creating variables.I absolutely adore the fact that you don't need to specify datatypes such as int or string when creating variables; especially using variables in parameters. This would be my first time using the Javascript language so I've definitely learned alot from the modules pertaining to Javascript and how it is used.From a software engineering perspective; I have no idea whatsoever if Javascript is a good or bad programming language. I feel any language can be good to use as long as it is readable. Now, when it comes to maybe efficieny in run times; then maybe Javascript could have an edge over another language such as Python or C#; I truly have no idea if that is true or not.
 
