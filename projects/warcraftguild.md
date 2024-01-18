@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: kendrick-g.github.io/img/project picture cropped.jpg
+image: /img/project picture cropped.jpg
 title: "WarcraftGuild"
 date: 2024-01-17
 published: true
