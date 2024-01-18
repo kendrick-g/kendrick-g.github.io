@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/project picture cropped.jpg
+image: img/warcraftguild.jpg
 title: "WarcraftGuild"
 date: 2024-01-17
 published: true
