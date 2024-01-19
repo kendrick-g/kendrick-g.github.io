@@ -17,6 +17,8 @@ Starcraft 2 is has 3 different playable races: Zerg, Protoss, and Terran. Each r
 
 Starcraft 2 has taught me important skills that I have built off of and maintained throughout my life. These skills include critical thinking, data analysis, time management, micromanagement, macromanagement, and learning from failure. It taught me create an end goal as well as steps to reach that end goal. My end goal was to reach Diamond rank; I unfortunately reached Platinum only which was one step away from Diamond. Starcraft 2 was one of the best times of my life shared with friends that had the same mindset of getting in-depth with the details. I had to stop playing because I had joined the Air Force by then and didn't have the same time available as before at the time. I'm glad to have been able to experience such a game with amazing people.
 
-<p><b><i>"More GG, More Skill"</b></i></p>
+<p><b><i>"More GG, More Skill"</b></i></p>-WhiteRA; One of my favorite quotes from him which essentially means don't give up, learn from mistakes
 
-https://www.youtube.com/watch?v=HAzkBgEh4A4
+<iframe width="1045" height="588" src="https://www.youtube.com/embed/HAzkBgEh4A4" title="More gg, more skill. - WhiteRa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
