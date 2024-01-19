@@ -11,7 +11,7 @@ labels:
   - Discipline
 summary: "Joining the Air Force was life changing for me."
 ---
-<b><i>"Wake up everyday, work hard, stay humble and repeat.</b></i> - CMSGT Kaleth O. Wright
+<b><i>"Wake up everyday, work hard, stay humble and repeat."</b></i> - CMSGT Kaleth O. Wright
    
   This project is about me joining the Air Force and fully changing my lifestyle for the years to come. Prior to the military, I'm your average guy that didn't really have an end goal in sight other than to be successful. I didn't know what that even meant <i>"Be successful".</i> I was just going through the motions everyday, going to school at Leeward Community College...I felt stuck in a loop. One day, I saw an advertisement on T.V about the Army and was like <i>"Yeah, I'm gonna go join the Army".</i> Well, that day, the Army doors were closed but, the Air Force office was open. So, I ended up applying to the Air Force for IT related jobs. Whoo boy, was I in for a wild ride.
 
