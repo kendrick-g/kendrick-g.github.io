@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/warcraftguild.jpg
-title: "WarcraftGuild"
+title: "Hospital Information System Migration"
 date: 2024-01-17
 published: true
 labels:
