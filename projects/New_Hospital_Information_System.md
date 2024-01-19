@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/warcraftguild.jpg
+image: img/pacs.jpg
 title: "Hospital Information System Migration"
 date: 2024-01-17
 published: true
