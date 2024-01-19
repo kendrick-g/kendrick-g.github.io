@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/health.png
+image: img/USAF.png
 title: "Off We Go, Into The Wild Blue Yonder!"
 date: 2024-01-18
 published: true
