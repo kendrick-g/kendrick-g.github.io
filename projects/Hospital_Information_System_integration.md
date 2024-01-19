@@ -9,10 +9,9 @@ labels:
   - Healthcare IT
   - PACS
   - Hospital
-summary: "I integrated a new Hospital Information System at Mike O'Callaghan Hospital."
 ---
-    
-     This project was about integrating a new hospital information system (HIS) called "Genesis" at Mike O'Callaghan hospital. I was Senior PACS Admin in charge of a team with 2 other PACS admins to get this project completed. I acted as liasion for the Radiolgoy Department to keep communications with Network Communications department as well as the new system vendors. This project was completed within a timeframe of 5 to 6 weeks. This new system led to a more organized way of scheduling patient exams as well as keeping track of billing costs, scheduled dates, and patient history information.
+
+  This project was about integrating a new hospital information system (HIS) called "Genesis" at Mike O'Callaghan hospital. I was Senior PACS Admin in charge of a team with 2 other PACS admins to get this project completed. I acted as liasion for the Radiolgoy Department to keep communications with Network Communications department as well as the new system vendors. This project was completed within a timeframe of 5 to 6 weeks. This new system led to a more organized way of scheduling patient exams as well as keeping track of billing costs, scheduled dates, and patient history information.
 
   A hospital information system is a database that stores patient information and is accessible for every department within the hospital. A PACS Administrator is responsible for maintaining the Hospital Information System as well as the Radiology Information System. Both require audits to ensure patient information is being correctly stored. I did a huge chunk of integrating the new HIS by ensuring specific exam codes matche of the new system matched the original codes. What these codes do is that for example lets say a patient needed an elbow x-ray; these codes enable us to select the specific exam for elbows and schedule them with the correct code so that correct billing is ensured. 
 
