@@ -4,7 +4,7 @@ type: project
 image: 
 title: "Hospital Information System Integration"
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Healthcare IT
   - PACS
