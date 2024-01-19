@@ -12,7 +12,7 @@ labels:
 summary: "I was ranked Platinum on the Starcraft 2 Ranked Ladder."
 ---
 
-![platinum](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/1fe02e8d-955e-41ac-b625-02bdcfe2ba76)
+![zerg](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/7fd28998-4c1b-465c-95c5-187c42af1664)
 
 This project was about achieving a high ranked position in the game of Starcraft 2. Starcraft 2 is a real-time strategy game where you can play against the A.I. or against real people. After each match I played, I would watch the match replay and carefully analyze many different things going on. I would like at the time stamps during gameplay to see where I could have been faster for a certain process. I would look at the opponents side and analyze what kind of units they would currently have at a specific time stamp of the match. The gameplay replays enabled me to take notes and determine where I can improve and also when the enemy is vulnerable.
 
