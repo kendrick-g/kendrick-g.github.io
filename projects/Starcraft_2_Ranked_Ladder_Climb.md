@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/SC2.jpg
 title: "Starcraft 2: Ranked Ladder Climb"
 date: 2024-01-18
 published: true
