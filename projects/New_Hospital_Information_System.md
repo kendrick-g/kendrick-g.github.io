@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pacs.jpg
+image: img/health.png
 title: "Hospital Information System Migration"
 date: 2024-01-17
 published: true
