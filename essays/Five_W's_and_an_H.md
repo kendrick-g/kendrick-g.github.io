@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Five W's and an H"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-18
+date: 2024-01-25
 published: true
 labels:
   - Software Engineering
@@ -16,4 +16,5 @@ Questions should pose some kind of progression; it should paint a picture to the
 
 On the same website; there exists questions on the opposite end of the spectrum which is posed as a "smart" question. The question was: "What is branch prediction?". I immediately thought " Yeah, what is that?". Unlike the answers for the previous question, this question had answers with mathematical and scientific reasoning to back up an answer. None of the answers were speculatory; there are people out there that actually specialize in such a topic because it's used daily everywhere in the world. A good example given was a railroad and how trains needed to start up and slow down and they needed to know prior to when such actions needed to be taken. This, I feel, is alot more useful than knowing how to send 100,000 emails in a week. This particular question got about 34k upvotes while the previous question had -44k downvotes. The people have spoken! Some questions are just "better" than others because of direction of goal, thought provocation, and overall impact of learning knowledge for such a question.
 
+![questions](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/d1925800-bba8-4b30-8bcc-0b7f6949b3de)
 
