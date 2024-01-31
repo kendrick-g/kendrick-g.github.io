@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript Journeys: Lets Brew Some Java!"
+title: "Javascript Journeys: Lets Brew Some Java"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
