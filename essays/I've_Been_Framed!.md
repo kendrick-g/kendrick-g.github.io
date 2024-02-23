@@ -10,7 +10,8 @@ labels:
   - UI Frameworks
 ---
 
-https://lh6.googleusercontent.com/nhaehNc_KduQ-uRp6kX7HhCqR0TN6QBzqydOfW7Wr7cbiFiUNeOVFuJEczu63fisuXqG7cPiSR5DGjZD8Vjz_6MP2A22UseX8Tcl-gS2lplP933hDjIOEK11wonwWH-5DbhsABebMespkEIIgtUK4FA
+![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/d09f4f1a-041c-499a-8f93-ce9ed1c35fa2)
+
 
   Up until recently, I have never done anything too crazy with regard to creating a website. The most I have ever done was edit the layout on my myspace and tumblr webpage. I don't even remeber if I was using bootstrap during that time, I highly doubt it. All I do remember is how I'd copy and paste code already made and modify it to edit my webpage to my liking. I put an MP3 player on my myspace page that played everytime someone would visit my page. I also remember making the text boxes a certain border color and my webpage background was something teen angsty like "My Chemical Romance" or "Slipknot". With that in mind, I think it's worth it to learn something such as Bootstrap 5 because of how easy it can be used to make probjects easy. I enjoy some kind of structure; I moreso enjoy if I can just plug and play things and dive right into the grand scheme of things. 
   
