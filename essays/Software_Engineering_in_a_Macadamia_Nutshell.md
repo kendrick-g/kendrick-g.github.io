@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Software Engineering in a Macadamia Nutshell"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-08
+published: true
+labels:
+  - Software Engineering
+  - Reflection
+---
+
 Throughout the duration of my software engineering course, which primarily focused on web application development, I've come to realize the vastness and applicability of software engineering principles across various domains, not just confined to web development. This essay aims to delve into fundamental concepts such as Agile Project Management, specifically Issue Driven Project Management, and Configuration Management, exploring their broader implications beyond the realm of web applications.
 
 1. Agile Project Management and Issue Driven Project Management
