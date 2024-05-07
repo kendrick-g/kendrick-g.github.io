@@ -10,6 +10,9 @@ labels:
   - AI Tools
 ---
 
+![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/c1e913d7-ece3-4e8c-a9b0-a823aca1c707)
+
+
 ### I. Introduction
 AI can play a major role in education by being able to display helpful information in anything that we are trying to learn about. I've only used ChatGPT to aid me in coding and it made the learning experience very interesting. It was very useful to use when you know what outcome you want but, are unable to get the process started. This is where giving it good prompts kick in. If you were to give a vague prompt, you wouldn't get the same output as a well written prompt. AI tools are only as capable as the user. 
 
