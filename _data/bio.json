@@ -5,7 +5,7 @@
     "picture": "https://github.com/kendrick-g.png",
     "email": "kg33@hawaii.edu",
     "website": "https://kendrick-g.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaii at Manoa with a Minor in Korean. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kendrick-g", "url": "http://github.com/kendrick-g" },
@@ -13,11 +13,11 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security" },
-    { "name": "Traveling" },
-    { "name": "Hiking" },
     { "name": "Fishing" },
-    { "name": "Games" }
+    { "name": "Hiking" },
+    { "name": "Music" },
+    { "name": "Technology" },
+    { "name": "Traveling" }
   ],
   "skills": [
     {
@@ -31,6 +31,10 @@
     {
       "name": "Critical Thinking",
       "keywords": [ "Ability to brainstorm using problem solving and creativity" ]
+    },
+    {
+      "name": "Teamwork oriented",
+      "keywords": [ "Work well with and support fellow peers" ]
     }
   ],
   "education": [
