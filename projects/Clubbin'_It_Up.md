@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/health.png
+image: img/clubtwo.png
 title: "Clubbin' It Up"
 date: 2024-05-09
 published: true
