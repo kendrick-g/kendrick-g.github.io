@@ -18,6 +18,7 @@ My contribution to this group project was to somehow get the list of clubs avail
 I learned that teamwork is easier said than done. You aren't working with just one brain; now you have multiple sets of brains that all think differently. It's great to be able to split tasks to each member of the group so that we can all combine our skills in the end to come up with hopefully amazing results in terms of project completion. When it comes to team-based work, you have to ensure communication is consistent so that everyone is on the same page on what needs to be done and what has been done. This way, energy isn't wasted and the project can be kept moving forward slowly until it is complete. All in all, it was a fun project to do and it made me appreciate having team members moreso than I did before. For any that are interested, the following is the link to our Project Organization Github Page:
 https://clubmeetup.github.io/ and below are a few screenshots of our project.
 
-![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/ac6930a9-3ef4-4437-80b8-22a3d085365c)
+![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/b4132e3e-e80b-449b-836f-b4956601960c)
 
-![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/b1408c6c-3d29-4fdb-a80c-0bbffa83a870)
+![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/7fc49058-93eb-4301-bb9a-6e26f088567a)
+
