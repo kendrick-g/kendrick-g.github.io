@@ -3,35 +3,21 @@ layout: essay
 type: essay
 title: "Software Engineering in a Macadamia Nutshell"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-08
+date: 2024-05-09
 published: true
 labels:
   - Software Engineering
   - Reflection
 ---
 
-Throughout the duration of my software engineering course, which primarily focused on web application development, I've come to realize the vastness and applicability of software engineering principles across various domains, not just confined to web development. This essay aims to delve into fundamental concepts such as Agile Project Management, specifically Issue Driven Project Management, and Configuration Management, exploring their broader implications beyond the realm of web applications.
+![image](https://github.com/kendrick-g/kendrick-g.github.io/assets/156295982/d5feb84b-95e7-46cc-8a5f-82be3b7fb9d8)
 
-1. Agile Project Management and Issue Driven Project Management
+Throughout my adventure for ICS 314, I realize that Software Engineering is more than just coding and trying to work for Amazon or Google. Theres so many concepts to take into consideration, things I didn't even know about before taking this class. I feel I barely cracked the ICS 314 nutshell. I'll talk about a few basic concepts I learned throuhgout the semester and why they're so important.  
 
-Agile Project Management is a methodology that emphasizes flexibility, continuous improvement, and the importance of customer feedback in the development of products. It contrasts starkly with traditional project management approaches, which often rely on rigid planning and sequential project phases. Agile management thrives on adaptability, allowing teams to respond to changes in customer needs and market conditions swiftly and effectively.
+Agile Project Management gets the first mention. <i> Well, what is Agile Project Management?</i> I'm glad you asked. Agile Project Management is an emphasis on being flexible, having continuous improvement on your work, and being able to focus on user feedback to continually provide updates. Agile management is based on adaptability, allowing team members to react to changes for users and their needs as well as adapt to the everchanging status quo of technology. One specific style of Agile Project Management that I explored during this course is "Issue Driven Project Management" or IDPM. This allows teams to organize tasks based on any issues such as features should be updated for a team project. With this agile management tool, issues are tracked, discussed, and resolved easily. This tool lets everyone on the team stay on the same page as to how the project is developing and also shows the growth of the project from inputs of each team member. It's a great way to keep track of what needs to be done; the ultimate checklist.
 
-One specific style of Agile Project Management that I explored during this course is Issue Driven Project Management (IDPM). This approach organizes development tasks around "issues" or specific problems and features that need to be addressed. Each issue is tracked, discussed, and resolved, often using tools like GitHub or Jira. This method not only keeps the development process transparent but also ensures that each team member can see the immediate impact of their work on the project.
+Second runner up is Coding Standards. It's another way of saying <i> these are the guidelines and practices when writing code to be consistent and effective all while being efficient</i>. Examples of coding standards is using white space consistently making your code spaced out neatly but, also not having any unnecessary white space. Choosing good names for your variables and functions enables you and future users of your code to have a gist of what the functions in your code does. Adding commments to your code is another concept of Coding Standards. Adding comments is what I actually need to do more myself. Comments are a great way to make little notes for each part of your code to help explain one by one what each piece of code does. Having a good name for the functions and variables in your code is not enough, it's best to pair it with comments which can help lessen the confusion of people that look at your code. All in all though, code will look bad to the eye of the beholder because everyone most likely has their specific way of laying out their code.
 
-Applying IDPM to non-web application projects could be incredibly effective. For instance, in software development for embedded systems, where integration and testing phases are critical and often problematic, IDPM could help in breaking down the complex integration process into manageable issues. Each integration challenge can be treated as an issue, allowing for more focused problem-solving and testing, thereby improving the overall quality and robustness of the system.
+In third place comes Ethics in Software Engineering. It is basically all development activities and how it is portrayed by various requirements and perspectives from making sure user privacy is enforced. AI development is a great example of Ethical Software Engineering because of the fact that AI can be quite invasive when it comes to digital privacy and security based on how AI can develop and learn digitally. An example would be when developing AI for healthcare, ethical concerns are the main focus when it comes to handling sensitive patient data. It is crucial that data is kept secure and that the use of AI will not make it easier for data to be leaked.
 
-2. Configuration Management
-
-Configuration Management (CM) is another critical concept that extends beyond the boundaries of web development. It involves maintaining the consistency of a product's performance and functional attributes with its requirements, design, and operational information throughout its life. In software engineering, CM helps manage code changes, ensuring that the development environment is stable and that team members are not working at cross-purposes.
-
-Beyond software, CM can be applied to any field where multiple components must be integrated into a coherent system. For example, in the manufacturing of electronic goods, CM can manage the various configurations of a product to accommodate different markets or changing supply chain situations. Similarly, in large-scale construction projects, CM can help track different building materials, manage design changes, and ensure compliance with safety standards, thereby reducing the risk of project overruns and ensuring that the final product meets the specified requirements.
-
-3. Ethics in Software Engineering
-
-Ethics in software engineering is a critical area that underpins all development activities, whether web-based or otherwise. It encompasses a broad range of considerations, from ensuring user privacy and data protection to making ethical decisions in the deployment of AI technologies. In my course, we discussed the importance of developing software that does not exploit users or expose them to security risks, which is a principle applicable in any technological development.
-
-For instance, when developing AI for healthcare, ethical considerations must guide the handling of sensitive patient data and the fairness of the AI models used. Ensuring that these models do not perpetuate biases or make unfair treatment recommendations is crucial. Similarly, in cybersecurity, software engineers must adopt ethical hacking practices, using their skills to strengthen, not undermine, system security.
-
-Conclusion
-
-The study of software engineering, while framed within the context of web application development in my course, clearly extends far beyond it. The principles of Agile Project Management, Configuration Management, and Ethics are just a few examples of how foundational software engineering concepts are instrumental across various fields. By understanding and applying these principles, we can ensure the development of robust, ethical, and efficient systems, regardless of the application area. This course has not only equipped me with specific technical skills but also with a versatile mindset that is applicable to a multitude of technological challenges.
+These are all but just a few concepts I learned in ICS 314. These concepts are basic but, they have such a huge impact on our work. Like a macadamia nut, Software Engineering can be a tough nut to crack but, with determination, you'll be able to get to the good parts inside.
